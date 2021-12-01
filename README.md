@@ -18,9 +18,11 @@ Execute the program
 <html>
 
 <body>
+<p>
 <h1>Name: Senthil Kumar S</h1>
 <h2>Reference Number: 21500410</h2>
 <h3>Dept.:Artificial Intelligence and Data Science</h3>
+</p>
 </body>
 
 </html>
@@ -28,8 +30,10 @@ Execute the program
 # OUTPUT
 <html>
 <body>
+<p>
 <h1>Name: Senthil Kumar S</h1>
 <h2>Reference Number: 21500410</h2>
 <h3>Dept.:Artificial Intelligence and Data Science</h3>
+</p>
 </body>
 </html>
